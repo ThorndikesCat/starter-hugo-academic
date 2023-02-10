@@ -1,28 +1,28 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: 苏永强 Su Yongqiang
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Yongqiang
+last_name: Su
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Phd of Sschool and Educational Psychology
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Beijing Normal University
+    url: https://psych.bnu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Chinese reading, Dyslexia and psycholinguistics.
 
 # Interests to show in About widget
 interests:
